@@ -1,7 +1,7 @@
 ### Hi I'm Kei Oikawa! 👋
 
 - A full-stack software developer.
-- Love TypeScript, Dart, and Golang.
+- Love TypeScript, Flutter & Dart, and Golang.
 
 <details>
 <summary>More about my coding life</summary>
