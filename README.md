@@ -3,6 +3,7 @@
 - I'm a Full Stack Developer with 9+ years of experience in developing cross-platform mobile app development.
 - I use daily TypeScript, Flutter & Dart, and Golang.
 - I love Deno lately.
+- You can find me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_js).
 
 ### Past experiences
 
