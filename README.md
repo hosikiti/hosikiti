@@ -5,6 +5,33 @@
 - I love Deno lately.
 - You can find me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_js).
 
+### A Little Bit About Me and My Interests
+
+```yaml
+education:
+  [
+    "Self-Taught Developer",
+    "Master's in Information Technology",
+  ]
+fields_of_interests:
+  [
+    "Web Development",
+    "Mobile Development",
+    "Crossplatform Development",
+    "UI/UX",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "CTO",
+    "Full Stack Developer",
+    "JavaScript specialist",
+  ]
+  
+currently_learning: ["React", "Web3", "LLM"]
+hobbies: ["Biking", "Baroque Music Performance"]
+```
+
 ### Past experiences
 
 - CTO and full-stack developer @ Standing Ovation [2014-2023]
