@@ -41,6 +41,16 @@ hobbies: ["Biking", "Baroque Music Performance"]
   - Fixed memory leaks and performance issues of several enterprise applications in JavaScript.
   - Developed an automated browser UI testing tool with C#.
 
+### Skills
+
+<p float="left">
+<img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/go" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/flutter" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/vuedotjs" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/svelte" />
+</p>
+
 <details>
 <summary>More about my coding life</summary>
 <br />
