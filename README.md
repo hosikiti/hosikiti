@@ -27,7 +27,6 @@ technical_background:
     "Full Stack Developer",
     "JavaScript specialist",
   ]
-  
 currently_learning: ["React", "Web3", "LLM"]
 hobbies: ["Biking", "Baroque Music Performance"]
 ```
