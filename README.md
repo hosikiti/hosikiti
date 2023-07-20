@@ -45,6 +45,7 @@ hobbies: ["Biking", "Baroque Music Performance"]
 
 <p float="left">
 <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/go" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/flutter" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/vuedotjs" />
