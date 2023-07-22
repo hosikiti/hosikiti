@@ -1,7 +1,3 @@
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</div>
-
 ## Hi I'm Kei Oikawa! 👋
 
 - I'm a Full Stack Developer with 9+ years of experience in developing cross-platform mobile app development.
