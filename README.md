@@ -5,13 +5,21 @@
 - I love writing Deno lately.
 - You can find me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_js).
 
+### Topics I cover:
+
+- Programming (TypeScript, JavaScript, Go, Dart)
+- Cross-platform app development (Flutter, NativeScript, Cordova)
+- Cloud Development (AWS, Firebase)
+- Operating Systems (Windows, MacOS, Linux, iOS, and Android)
+- Self-Hosting (HomeServer, VPS)
+- Documentation (Notion, Backlog)
+
 ### A Little Bit About Me and My Interests
 
 ```yaml
 education:
   [
-    "Self-Taught Developer",
-    "Master's in Information Technology",
+    "Master's in Information Technology"
   ]
 fields_of_interests:
   [
