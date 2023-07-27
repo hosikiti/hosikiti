@@ -1,4 +1,4 @@
-## Hi I'm Kei Oikawa! 👋
+# About me 👋
 
 - I'm a Full Stack Developer with 9+ years of experience in developing cross-platform mobile app development.
 - I use daily TypeScript, Flutter & Dart, and Golang.
