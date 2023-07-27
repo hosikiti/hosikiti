@@ -1,9 +1,7 @@
 # About me 👋
 
-- I'm a Full Stack Developer with 9+ years of experience in developing cross-platform mobile app development.
-- I use daily TypeScript, Flutter & Dart, and Golang.
-- I love writing Deno lately.
-- You can find me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_js).
+I'm Kei Oikawa, Full Stack Developer, and App Developer with 9+ years of experience.
+You can reach out to me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_js).
 
 ### Topics I cover:
 
