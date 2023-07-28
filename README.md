@@ -12,6 +12,15 @@ You can reach out to me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_j
 - Self-Hosting (HomeServer, VPS)
 - Documentation (Notion, Backlog)
 
+### Past experiences
+
+- CTO and full-stack developer @ Standing Ovation [2014-2023]
+  - Created a mobile app that acquired 2 million users.
+  - Developed with Flutter, NativeScript, and Cordova.
+- JavaScript specialist @ Future Architect [2009-2014]
+  - Fixed memory leaks and performance issues of several enterprise applications in JavaScript.
+  - Developed an automated browser UI testing tool with C#.
+
 ### A Little Bit About Me and My Interests
 
 ```yaml
@@ -36,15 +45,6 @@ technical_background:
 currently_learning: ["React", "Web3", "LLM"]
 hobbies: ["Biking", "Baroque Music Performance"]
 ```
-
-### Past experiences
-
-- CTO and full-stack developer @ Standing Ovation [2014-2023]
-  - Created a mobile app that acquired 2 million users.
-  - Developed with Flutter, NativeScript, and Cordova.
-- JavaScript specialist @ Future Architect [2009-2014]
-  - Fixed memory leaks and performance issues of several enterprise applications in JavaScript.
-  - Developed an automated browser UI testing tool with C#.
 
 <details>
 <summary>More about my coding life</summary>
