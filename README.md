@@ -14,7 +14,7 @@ You can reach out to me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_j
 - CI/CD (Github Actions, AWS CodeDeploy, CodeMagic, Fastlane)
 - Documentation (Notion, Backlog)
 
-### Past experiences
+### Past Experiences
 
 - CTO and full-stack developer @ Standing Ovation [2014-2023]
   - Created a mobile app that acquired 2 million users.
