@@ -10,6 +10,7 @@ You can reach out to me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_j
 - Cloud Development (AWS, Firebase)
 - Operating Systems (Windows, MacOS, Linux, iOS, and Android)
 - Self-Hosting (HomeServer, VPS)
+- CI/CD (Github Actions, AWS CodeDeploy, CodeMagic, Fastlane)
 - Documentation (Notion, Backlog)
 
 ### Past experiences
