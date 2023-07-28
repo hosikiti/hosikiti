@@ -38,12 +38,6 @@ fields_of_interests:
     "UI/UX",
     "DevOps",
   ]
-technical_background:
-  [
-    "CTO",
-    "Full Stack Developer",
-    "JavaScript specialist",
-  ]
 currently_learning: ["React", "Web3", "LLM"]
 hobbies: ["Biking", "Baroque Music Performance"]
 ```
