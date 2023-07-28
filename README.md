@@ -5,8 +5,9 @@ You can reach out to me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_j
 
 ### Topics I cover:
 
-- Programming (TypeScript, JavaScript, Go, Dart)
+- Programming (TypeScript, JavaScript, Go, Dart, Shell Scripting)
 - Cross-platform app development (Flutter, NativeScript, Cordova)
+- Web/UI framework (Vue, Svelte)
 - Cloud Development (AWS, Firebase)
 - Operating Systems (Windows, MacOS, Linux, iOS, and Android)
 - Self-Hosting (HomeServer, VPS)
