@@ -11,6 +11,7 @@ You can reach out to me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_j
 - Web/UI framework (Vue, Svelte)
 - Cloud Development (AWS, Firebase)
 - Operating Systems (MacOS, Linux, iOS, and Android)
+- Testing (Flutter Test, Cypress, Go Table Driven Test)
 - Self-Hosting (HomeServer, VPS)
 - CI/CD (Github Actions, AWS CodeDeploy, CodeMagic, Fastlane)
 - Documentation (Notion, Backlog)
