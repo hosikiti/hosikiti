@@ -22,6 +22,7 @@ You can reach out to me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_j
 - CTO and full-stack developer @ Standing Ovation [2014-2023]
   - Created a mobile app that acquired 2 million users.
   - Developed with Flutter, NativeScript, and Cordova.
+  - Led a development team of frontend, backend, AI, and data engineers.
 - JavaScript specialist @ Future Architect [2009-2014]
   - Fixed memory leaks and performance issues of several enterprise applications in JavaScript.
   - Developed an automated browser UI testing tool with C#.
@@ -35,10 +36,9 @@ education:
   ]
 fields_of_interests:
   [
-    "Web Development",
     "Cross-platform Mobile App Development",
-    "Mobile Development",
-    "UI/UX",
+    "Mobile App Development",
+    "Web Service Development",
     "DevOps",
   ]
 currently_learning: ["React", "Web3", "LLM"]
