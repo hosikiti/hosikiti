@@ -7,7 +7,7 @@ You can reach out to me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_j
 
 - Programming (TypeScript, JavaScript, Go, Dart, Shell Scripting)
 - Cross-platform app development (Flutter, NativeScript, Cordova)
-- Scraping (Puppeteer, Playwright, Headless Chrome, Edge-Scraping)
+- Scraping (Puppeteer, Playwright, Headless Chrome)
 - Web/UI framework (Vue, Svelte)
 - Cloud Development (AWS, Firebase)
 - Operating Systems (MacOS, Linux, iOS, and Android)
