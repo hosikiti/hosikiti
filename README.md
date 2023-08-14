@@ -13,7 +13,6 @@ You can reach out to me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_j
 - Operating Systems (MacOS, Linux, iOS, and Android)
 - Testing (Flutter Test, Cypress, Go Table Driven Test)
 - Database (MySQL, BigQuery, Redis, MongoDB)
-- Self-Hosting (HomeServer, VPS)
 - CI/CD (Github Actions, AWS CodeDeploy, CodeMagic, Fastlane)
 - Documentation (Notion, Backlog)
 
