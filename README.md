@@ -41,7 +41,7 @@ fields_of_interests:
     "DevOps",
   ]
 currently_learning: ["React", "Web3", "LLM"]
-hobbies: ["Biking", "Baroque Music Performance"]
+hobbies: ["Cycling", "Baroque Music Performance"]
 ```
 
 <details>
