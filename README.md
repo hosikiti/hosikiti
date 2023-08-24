@@ -10,7 +10,6 @@ You can reach out to me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_j
 - Scraping (Puppeteer, Playwright, Headless Chrome)
 - Web/UI framework (Vue, Svelte)
 - Cloud Development (AWS, Firebase)
-- Operating Systems (MacOS, Linux, iOS, and Android)
 - Testing (Flutter Test, Cypress, Go Table Driven Test)
 - Database (MySQL, BigQuery, Redis, MongoDB)
 - CI/CD (Github Actions, AWS CodeDeploy, CodeMagic, Fastlane)
