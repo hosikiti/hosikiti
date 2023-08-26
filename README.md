@@ -18,7 +18,8 @@ You can reach out to me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_j
 ### Past Experiences
 
 - CTO and full-stack developer @ Standing Ovation [2014-2023]
-  - Created a mobile app that acquired 2 million users.
+  - Created a mobile app that acquired 2 million users all over the world.
+  - Launched a fashion recommendation service for E-commerce sites, allowing them to show outfit ideas based on visitors' fashion items.
   - Developed with Flutter, NativeScript, and Cordova.
   - Led a development team of frontend, backend, AI, and data engineers.
 - JavaScript specialist @ Future Architect [2009-2014]
