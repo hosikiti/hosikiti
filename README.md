@@ -8,7 +8,7 @@ You can reach out to me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_j
 - Programming (TypeScript, JavaScript, Go, Dart, Shell Scripting)
 - Cross-platform app development (Flutter, NativeScript, Cordova)
 - Scraping (Puppeteer, Playwright, Headless Chrome)
-- Web/UI framework (Vue, Svelte)
+- Web/UI framework (Vue, Svelte, React)
 - Cloud Development (AWS, Firebase)
 - Testing (Flutter Test, Cypress, Go Table Driven Test)
 - Database (MySQL, BigQuery, Redis, MongoDB)
@@ -41,7 +41,7 @@ fields_of_interests:
     "DevOps",
   ]
 currently_learning: ["React", "Web3", "LLM"]
-hobbies: ["Cycling", "Baroque Music Performance"]
+hobbies: ["Cycling", "Baroque Violin"]
 ```
 
 <details>
