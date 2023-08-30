@@ -1,6 +1,6 @@
 # About me 👋
 
-I'm Kei Oikawa, Full Stack Web Developer and Mobile App Developer with 9+ years of experience.
+I'm Kei Oikawa, Full Stack Web/Mobile App Developer with 9+ years of experience.
 You can reach out to me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_js).
 
 ### Topics I cover:
