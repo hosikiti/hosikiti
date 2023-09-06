@@ -18,11 +18,12 @@ You can reach out to me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_j
 ### Past Experiences
 
 - CTO and full-stack developer @ Standing Ovation [2014-2023]
-  - Created a mobile app that helps users decide what to wear today based on their own items, which acquired 2 million users all over the world.
+  - Created an iOS & Android app helping users choose what to wear based on their own fashion items, which acquired 2M users all over the world.
   - Launched a fashion recommendation service for E-commerce sites, allowing them to show outfit ideas based on visitors' fashion items.
+  - Built several data scraping engines for collecting fashion data from E-commerce sites, which allows users to import their order histories.
   - Led a development team of frontend, backend, AI, and data engineers.
 - JavaScript specialist @ Future Architect [2009-2014]
-  - Fixed memory leaks and performance issues of several enterprise applications in JavaScript.
+  - Solved several web application performance issues and memory leaks in enterprise applications.
   - Developed an automated browser UI testing tool with C# that runs based on test commands in an Excel sheet.
 
 ### A Little Bit About Me and My Interests
