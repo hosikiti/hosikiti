@@ -10,8 +10,8 @@ You can reach out to me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_j
 - Scraping (Puppeteer, Playwright, Headless Chrome)
 - Web/UI framework (Vue, Svelte, React)
 - Cloud Development (AWS, Firebase)
-- Testing (Flutter Test, Cypress, Go Table Driven Test)
-- Database (MySQL, BigQuery, Redis, MongoDB)
+- Testing (Flutter Test, Cypress, Jest, Go Table Driven Test)
+- Database (MySQL, BigQuery, Firestore, Redis, MongoDB)
 - CI/CD (Github Actions, AWS CodeDeploy, CodeMagic, Fastlane)
 - Documentation (Notion, Backlog)
 
