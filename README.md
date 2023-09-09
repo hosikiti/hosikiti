@@ -24,7 +24,7 @@ You can reach out to me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_j
   - Led a development team of frontend, backend, AI, and data engineers.
 - JavaScript specialist @ Future Architect [2009-2014]
   - Solved several web application performance issues and memory leaks in enterprise applications.
-  - Developed an automated browser UI testing tool with C# that runs based on test commands in an Excel sheet.
+  - Solely created an automated web app testing application with C# that runs based on test commands in an Excel sheet.
 
 ### A Little Bit About Me and My Interests
 
