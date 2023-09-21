@@ -6,9 +6,9 @@ You can reach out to me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_j
 ### Topics I cover:
 
 - Programming (TypeScript, JavaScript, Go, Dart, Shell Scripting)
+- Web app development (Vue, Svelte, React, Angular)
 - Mobile App Development (Flutter, NativeScript, Cordova)
 - Scraping (Puppeteer, Playwright, Headless Chrome)
-- Web/UI framework (Vue, Svelte, React)
 - Cloud Development (AWS, Firebase)
 - Container Development (Docker, ECS, AWS Batch)
 - Testing (Flutter Test, Cypress, Jest, Go Table Driven Test)
