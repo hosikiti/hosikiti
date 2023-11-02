@@ -51,6 +51,6 @@ hobbies: ["Cycling", "Baroque Violin"]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosikiti&layout=compact&hide=css,HTML)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hosikiti&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hosikiti&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </details>
