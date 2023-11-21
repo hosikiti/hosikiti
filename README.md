@@ -1,7 +1,7 @@
 # About me 👋
 
-I'm Kei Oikawa, Full Stack Web/Mobile App Developer with 9+ years of experience.
-You can reach out to me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_js).
+I'm Kei Oikawa, a Full-Stack Engineer with 10+ years of experience.
+You can contact me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_js).
 
 ### Topics I cover:
 
@@ -18,12 +18,12 @@ You can reach out to me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_j
 
 ### Past Experiences
 
-- CTO and full-stack developer @ Standing Ovation [2014-2023]
+- CTO and full-stack engineer @ Standing Ovation [2014-2023]
   - Created an iOS & Android app helping users choose what to wear based fashion items they uploaded, which acquired 2M users all over the world.
   - Launched a fashion recommendation service for E-commerce sites, allowing them to show outfit ideas based on visitors' fashion items.
   - Built several data scraping engines for collecting fashion data from E-commerce sites, which allows users to import their order histories.
   - Led a development team of frontend, backend, AI, and data engineers.
-- JavaScript specialist @ Future Architect [2009-2014]
+- Frontend Engineer @ Future Architect [2009-2014]
   - Solved several web application performance issues and memory leaks in enterprise applications.
   - Solely created an automated web app testing application with C# that runs based on test commands in an Excel sheet.
 
