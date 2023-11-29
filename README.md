@@ -19,7 +19,7 @@ You can contact me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_js).
 ### Past Experiences
 
 - CTO and full-stack engineer @ Standing Ovation [2014-2023]
-  - Created an iOS & Android app helping users choose what to wear based fashion items they uploaded, which acquired 2M users all over the world.
+  - Spearheaded the development of XZ, a Flutter app helping users choose what to wear based on user fashion items, which acquired 2M users worldwide.
   - Launched a fashion recommendation service for E-commerce sites, allowing them to show outfit ideas based on visitors' fashion items.
   - Built several data scraping engines for collecting fashion data from E-commerce sites, which allows users to import their order histories.
   - Led a development team of frontend, backend, AI, and data engineers.
