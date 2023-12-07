@@ -14,7 +14,7 @@ You can contact me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_js).
 - Container Development (Docker, ECS, AWS Batch)
 - Testing (Flutter Test, Cypress, Jest, Go Table Driven Test)
 - Database (MySQL, BigQuery, Firestore, Redis, MongoDB)
-- CI/CD (Github Actions, AWS CodeDeploy, CodeMagic, Fastlane)
+- DevOps (Github Actions, AWS CodeDeploy, CodeMagic, Fastlane)
 - Documentation (Notion, Backlog)
 
 ### Past Experiences
