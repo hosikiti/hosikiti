@@ -6,7 +6,7 @@ You can contact me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_js).
 ### Topics I cover:
 
 - Programming (TypeScript, JavaScript, Go, Dart, Shell Scripting)
-- Web app development (Vue, Svelte, React, Deno, Angular, WebSocket)
+- Web app development (React, Svelte, Vue, Deno, Angular, WebSocket)
 - Mobile App Development (Flutter, NativeScript, Cordova)
 - API/Batch Development (Golang, NodeJS, Express, Deno, AWS Batch)
 - Scraping (Puppeteer, Playwright, Headless Chrome)
