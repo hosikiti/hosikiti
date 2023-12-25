@@ -7,9 +7,9 @@ You can contact me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_js).
 
 - Programming (TypeScript, JavaScript, Go, Dart, Shell Scripting)
 - Web app development (React, Svelte, Vue, Deno, Angular, WebSocket)
-- Mobile App Development (Flutter, NativeScript, Cordova)
+- Mobile App Development (Flutter, NativeScript, Cordova, iOS, Android)
 - API/Batch Development (Golang, NodeJS, Express, Deno, AWS Batch)
-- Scraping (Puppeteer, Playwright, Headless Chrome)
+- Web Scraping (Puppeteer, Playwright, Headless Chrome, WebView)
 - Cloud Development (AWS, Firebase)
 - Container Development (Docker, ECS, AWS Batch)
 - Testing (Flutter Test, Cypress, Jest, Go Table Driven Test)
