@@ -46,12 +46,8 @@ currently_learning: ["React", "Web3", "LLM"]
 hobbies: ["Cycling", "Baroque Violin"]
 ```
 
-<details>
-<summary>More about my coding life</summary>
-<br />
+### More about my coding life
+
+[![Hosikiti's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hosikiti&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosikiti&layout=compact&hide=css,HTML)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=hosikiti&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-</details>
