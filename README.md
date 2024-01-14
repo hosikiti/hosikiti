@@ -42,7 +42,7 @@ fields_of_interests:
     "Web Service Development",
     "DevOps",
   ]
-currently_learning: ["React", "Web3", "LLM"]
+currently_learning: ["Web3", "LLM"]
 hobbies: ["Cycling", "Baroque Violin"]
 ```
 
