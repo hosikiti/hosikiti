@@ -21,7 +21,7 @@ You can contact me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_js).
 
 - CTO and full-stack engineer @ Standing Ovation [2014-2023]
   - Developed XZ ([Android](https://play.google.com/store/apps/details?id=fashion.style.coordinate.app.xz&hl=en_US)/[iOS](https://apps.apple.com/jp/app/xz-%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%83%E3%83%88-%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3-%E6%B4%8B%E6%9C%8D-%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%8D%E3%83%BC%E3%83%88/id909369654)), a mobile fashion app helping users choose what to wear based on their fashion items and weather, which acquired 2M users worldwide.
-  - Launched a fashion recommendation service for E-commerce sites, allowing them to show outfit ideas based on visitors' fashion items.
+  - Drove a fashion product recommendation SaaS for e-commerce websites, allowing them to show outfit ideas based on visitors' fashion items.
   - Built several data scraping engines for collecting fashion data from E-commerce sites, which allows users to import their order histories.
   - Led a development team of frontend, backend, AI, and data engineers.
 - Frontend Engineer @ Future Architect [2009-2014]
