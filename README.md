@@ -28,7 +28,7 @@ You can contact me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_js).
   - Addressed Internet Explorer memory leaks in several enterprise web applications.
   - Solely created a Web UI testing tool with C#, streamlining integration testing for several projects' web applications.
 
-### A Little Bit About Me and My Interests
+### A Little Bit About Me
 
 ```yaml
 education:
@@ -41,6 +41,7 @@ fields_of_interests:
     "Mobile App Development",
     "Web Service Development",
     "DevOps",
+    "Developer Productivity"
   ]
 currently_learning: ["Web3", "LLM"]
 hobbies: ["Cycling", "Baroque Violin"]
