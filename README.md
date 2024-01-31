@@ -1,7 +1,6 @@
 # About me 👋
 
-I'm Kei Oikawa, a Full-Stack Engineer with 10+ years of experience.
-You can contact me on Twitter [@hosikiti_js](https://twitter.com/hosikiti_js).
+I'm Kei Oikawa, a Full-Stack Engineer with 10 years of experience in startup environments.
 
 ### Topics I cover:
 
