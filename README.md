@@ -18,7 +18,7 @@ I'm Kei Oikawa, a Full-Stack Engineer with 10 years of experience in startup env
 
 ### Past Experiences
 
-- CTO and full-stack engineer @ Standing Ovation [2014-2023]
+- CTO and Full-Stack Engineer @ Standing Ovation [2014-2023]
   - Developed XZ ([Android](https://play.google.com/store/apps/details?id=fashion.style.coordinate.app.xz&hl=en_US)/[iOS](https://apps.apple.com/us/app/xz-closet-fashion-outfits/id909369654)), a mobile fashion app helping users choose what to wear based on their fashion items and weather, which acquired 2M users worldwide.
   - Drove a fashion product recommendation SaaS for e-commerce websites, leveraging customers' fashion wardrobe data.
   - Built several data scraping engines for collecting fashion data from E-commerce sites, which allows users to import their order histories.
