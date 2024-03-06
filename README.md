@@ -1,6 +1,6 @@
 # About me 👋
 
-I'm Kei Oikawa, a Full-Stack Engineer with 10 years of experience in startup environments.
+I'm Kei Oikawa, a Full-Stack Engineer with 10+ years of experience in startup environments.
 
 ### Topics I cover:
 
