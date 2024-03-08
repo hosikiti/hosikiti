@@ -5,7 +5,7 @@ I'm Kei Oikawa, a Full-Stack Engineer with 10+ years of experience in startup en
 ### Topics I cover:
 
 - Programming (TypeScript, JavaScript, Go, Dart, Shell Scripting)
-- Web app development (React, Svelte, Vue, Deno, Angular, WebSocket)
+- Web app development (React, Svelte, Vue, Deno, Angular, WebSocket, TailwindCSS)
 - Mobile App Development (Flutter, NativeScript, Cordova, iOS, Android)
 - API/Batch Development (Golang, gorilla/mux, NodeJS, Express, AWS Batch)
 - Web Scraping (Playwright, Agouti, Headless Chrome)
