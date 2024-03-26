@@ -18,6 +18,8 @@ I'm Kei Oikawa, a Full-Stack Engineer with 10+ years of experience in startup en
 
 ### Experiences
 
+- Full-Stack Engineer @ Musiversal [2024-]
+
 - Freelance Software Engineer @Various Startups [2023-]
   - REST API development using Golang
   - Implement web user-interfaces using React, Next.js
