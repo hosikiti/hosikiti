@@ -12,7 +12,7 @@ I'm Kei Oikawa, a Full-Stack Engineer with 10+ years of experience in startup en
 - Cloud Development (AWS, Firebase)
 - Container Development (Docker, ECS, AWS Batch)
 - Testing (Flutter Test, Cypress, Jest, Go Table Driven Test)
-- Database (MySQL, GORM v1/v2, BigQuery, Firestore, Redis, MongoDB, Prisma)
+- Database (MySQL, PostgreSQL, GORM v1/v2, BigQuery, Firestore, Redis, MongoDB, Prisma)
 - DevOps (Github Actions, AWS CodeDeploy, CodeMagic, Fastlane)
 - Documentation (Notion, Backlog, Redmine)
 
