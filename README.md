@@ -11,9 +11,9 @@ I'm Kei Oikawa, a Full-Stack Engineer with 10+ years of experience in startup en
 - Web Scraping (Playwright, Agouti, Headless Chrome)
 - Cloud Development (AWS, Firebase)
 - Container Development (Docker, ECS, AWS Batch)
-- Testing (Flutter Test, Cypress, Jest, Go Table Driven Test)
+- Testing (Flutter Test, Vitest, Cypress, Jest, Go Table Driven Test)
 - Database (MySQL, PostgreSQL, GORM v1/v2, BigQuery, Firestore, Redis, MongoDB, Prisma)
-- DevOps (Github Actions, AWS CodeDeploy, CodeMagic, Fastlane)
+- DevOps (Github Actions, AWS CodeDeploy, Amplify, CodeMagic, Fastlane)
 - Documentation (Notion, Backlog, Redmine)
 
 ### Experiences
