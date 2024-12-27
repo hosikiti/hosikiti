@@ -36,10 +36,6 @@ I'm Kei Oikawa, a Full-Stack Engineer with 10+ years of experience in startup en
 ### A Little Bit About Me
 
 ```yaml
-education:
-  [
-    "Master's in Information Technology"
-  ]
 fields_of_interests:
   [
     "Cross-platform Mobile App Development",
@@ -48,8 +44,8 @@ fields_of_interests:
     "DevOps",
     "Developer Productivity"
   ]
-currently_learning: ["Web3", "LLM"]
-hobbies: ["Cycling", "Baroque Violin"]
+currently_learning: ["LLM"]
+hobbies: ["Travelling", "Cycling", "Baroque Violin"]
 ```
 
 ### More about my coding life
