@@ -15,6 +15,7 @@ I'm Kei Oikawa, a Full-Stack Engineer with 10+ years of experience in startup en
 - Database (MySQL, PostgreSQL, GORM v1/v2, BigQuery, Firestore, Redis, MongoDB, Prisma)
 - DevOps (Github Actions, AWS CodeDeploy, Amplify, CodeMagic, Fastlane)
 - Documentation (Notion, Backlog, Redmine)
+- AI coding (Claude Code, Codex)
 
 ### Experiences
 
